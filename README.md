@@ -1,3 +1,3 @@
 # Laboratorio2.5
 
-Andres
+Daniek Jerez
